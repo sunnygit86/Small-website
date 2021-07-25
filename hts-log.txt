@@ -1,0 +1,26 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 25 Jul 2021 21:30:43 at http://www.opendesigns.org/design/blue-skies/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.opendesigns.org/design/blue-skies/ -O1 "F:\Small website\Appsite2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:30:59	Error: 	"Not Found" (404) at link www.opendesigns.org/design/blue-skies/images/default-image.jpg (from www.opendesigns.org/design/blue-skies/)
+21:31:04	Error: 	"Not Found" (404) at link www.opendesigns.org/design/blue-skies/od/wp-admin/admin-ajax.php (from www.opendesigns.org/design/blue-skies/)
+21:31:04	Error: 	"Not Found" (404) at link www.opendesigns.org/design/blue-skies/blog/ (from www.opendesigns.org/design/blue-skies/)
+21:31:04	Error: 	"Not Found" (404) at link www.opendesigns.org/design/blue-skies/od/wp-content/designs/34/34857 (from www.opendesigns.org/design/blue-skies/)
+21:31:04	Error: 	"Not Found" (404) at link www.opendesigns.org/design/blue-skies/download/ (from www.opendesigns.org/design/blue-skies/)
+21:31:04	Error: 	"Not Found" (404) at link www.opendesigns.org/design/blue-skies/profile/araynordesign/ (from www.opendesigns.org/design/blue-skies/)
+21:31:04	Error: 	"Not Found" (404) at link www.opendesigns.org/design/blue-skies/design-categories/blog (from www.opendesigns.org/design/blue-skies/)
+21:31:04	Error: 	"Not Found" (404) at link www.opendesigns.org/design/blue-skies/design-categories/business (from www.opendesigns.org/design/blue-skies/)
+21:31:04	Error: 	"Not Found" (404) at link www.opendesigns.org/design/blue-skies/facebook-engagement-for-small-businesses/ (from www.opendesigns.org/design/blue-skies/)
+21:31:04	Error: 	"Not Found" (404) at link www.opendesigns.org/design/blue-skies/free-productivity-tools/ (from www.opendesigns.org/design/blue-skies/)
+21:31:04	Error: 	"Not Found" (404) at link www.opendesigns.org/design/blue-skies/negative-space/ (from www.opendesigns.org/design/blue-skies/)
+21:31:04	Error: 	"Not Found" (404) at link www.opendesigns.org/design/blue-skies/valentine-banners/ (from www.opendesigns.org/design/blue-skies/)
+21:31:04	Error: 	"Not Found" (404) at link www.opendesigns.org/design/blue-skies/bigg/ (from www.opendesigns.org/design/blue-skies/)
+21:31:04	Error: 	"Not Found" (404) at link www.opendesigns.org/design/blue-skies/make-a-website-using-html/ (from www.opendesigns.org/design/blue-skies/)
+21:31:04	Error: 	"Not Found" (404) at link www.opendesigns.org/design/blue-skies/login/?action=lostpassword (from www.opendesigns.org/design/blue-skies/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 21 seconds : 27 links scanned, 11 files written (556704 bytes overall) [475375 bytes received at 22636 bytes/sec], 137126 bytes transferred using HTTP compression in 3 files, ratio 30%, 2.4 requests per connection
+(15 errors, 0 warnings, 0 messages)
